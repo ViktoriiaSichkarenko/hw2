@@ -1,0 +1,31 @@
+body  {
+	background-color:#bdbdbd;
+    width: 1440px;
+	height:789px;
+	
+}
+
+.wrapper {	
+	background-color:#fff;
+	width: 700px;	
+    margin: 0 auto;
+}
+
+.header  {
+	margin: 20px;
+    padding: 10px;
+	display: block;
+	text-align: center;
+}
+
+.content {
+	
+	margin: 0px 50px 20px;
+    padding: 0px 50px 50px;
+	font-size: 20px;
+}
+
+	
+	
+	
+	
